@@ -13,7 +13,7 @@ Private home for Fastgrows brand files, social posts and blog content.
 | `blog/drafts/` | Blog posts not yet live, plus the publishing plan. |
 | `blog/published/` | Move a draft here once it is live on the blog. |
 | `blog/covers/` | 1200x630 cover images, named to match the post. |
-| `clients/` | One folder per client. |
+| `clients/` | One folder per client (and prospects like Laurels Clan). |
 | `products/` | Things Fastgrows sells, like the salon Canva kit. |
 | `docs/` | Notes and background context. |
 
